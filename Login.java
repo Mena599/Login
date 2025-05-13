@@ -23,6 +23,12 @@ public class Login {
         } else {
             System.out.println("Usuario o password ingresados incorrectos");
         }
+        System.out.println("Derechos reservados unica y exclusivamente a Mena");
+        /*if (resultadoNombre == true && resultadoPassword==true) {
+            System.out.println("Bienvenido al sistema");
+        } else {
+            System.out.println("Usuario o password ingresados incorrectos");
+        } Esta es otra manerade solucionarlo*/
         //NO DEBES DE DECLARAR VARIABLES DENTRO DE UN IF!!! PENDEJO ;)
 
         System.out.println("Usuario ingresado: " + usuarioIngresado);
